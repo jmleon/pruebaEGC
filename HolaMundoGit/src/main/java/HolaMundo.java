@@ -7,7 +7,7 @@ public class HolaMundo {
 	 */
 	public static void main(String[] args) {
 		System.out.println("HolaMundo24");
-		System.out.println("Ramanue");
+		System.out.println("Rama");
 
 	}
 
